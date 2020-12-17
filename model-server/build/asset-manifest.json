@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9be33987.chunk.css",
+    "main.js": "/static/js/main.d3559dde.chunk.js",
+    "main.js.map": "/static/js/main.d3559dde.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5e723636.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5e723636.js.map",
+    "static/js/2.0128f889.chunk.js": "/static/js/2.0128f889.chunk.js",
+    "static/js/2.0128f889.chunk.js.map": "/static/js/2.0128f889.chunk.js.map",
+    "static/js/3.6b378a15.chunk.js": "/static/js/3.6b378a15.chunk.js",
+    "static/js/3.6b378a15.chunk.js.map": "/static/js/3.6b378a15.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9be33987.chunk.css.map": "/static/css/main.9be33987.chunk.css.map",
+    "static/js/2.0128f889.chunk.js.LICENSE.txt": "/static/js/2.0128f889.chunk.js.LICENSE.txt",
+    "static/media/PatientPage.css": "/static/media/bg-1.77097bcf.png",
+    "static/media/HomePage.css": "/static/media/bg-2.f62f61a3.png",
+    "static/media/breast-cancer.1c8eb1c2.jpg": "/static/media/breast-cancer.1c8eb1c2.jpg",
+    "static/media/doctor.07d64672.jpg": "/static/media/doctor.07d64672.jpg",
+    "static/media/healthy-heart.6ab7100a.jpg": "/static/media/healthy-heart.6ab7100a.jpg",
+    "static/media/healthy-kidney.c8e4d3b9.png": "/static/media/healthy-kidney.c8e4d3b9.png",
+    "static/media/kidney.78da8abb.png": "/static/media/kidney.78da8abb.png",
+    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg",
+    "static/media/logo.fd40651d.png": "/static/media/logo.fd40651d.png",
+    "static/media/refresh.546ca3f0.png": "/static/media/refresh.546ca3f0.png",
+    "static/media/sprite.a185b28f.svg": "/static/media/sprite.a185b28f.svg",
+    "static/media/unhealthy-heart.b4ef740b.jpg": "/static/media/unhealthy-heart.b4ef740b.jpg",
+    "static/media/unhealthy-kidney.9a8e6e32.png": "/static/media/unhealthy-kidney.9a8e6e32.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e723636.js",
+    "static/js/2.0128f889.chunk.js",
+    "static/css/main.9be33987.chunk.css",
+    "static/js/main.d3559dde.chunk.js"
+  ]
+}
